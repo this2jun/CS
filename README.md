@@ -21,6 +21,6 @@
 
 ## ✔️ Spring
 
-## ✔️ DataBase
+## ✔️ Database
 
 ## ✔️ Network
