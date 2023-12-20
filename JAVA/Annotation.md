@@ -1,3 +1,4 @@
+<!--
 # Java Annotation
 
 - 어노테이션은 Java SE 5 에서 Generics 와 함께 등장하였다.
@@ -650,3 +651,4 @@ Pluggable Annotation Processing API 의 핵심은 Annotation Processor 로, 일�
 - https://pluu.github.io/blog/android/2015/12/24/annotation-processing-api/
 - https://programmer.group/pluggable-annotation-processing-api.html
 - https://jeong-pro.tistory.com/234
+-->
