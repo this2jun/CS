@@ -17,7 +17,7 @@
 
 ## ✔️ Java
 
-<!-- - [Annotation](https://github.com/this2jun/CS/blob/master/JAVA/Annotation.md) -->
+<!-- - [JAVA](https://github.com/this2jun/CS/blob/master/JAVA/JAVA.md) -->
 
 ## ✔️ Spring
 
